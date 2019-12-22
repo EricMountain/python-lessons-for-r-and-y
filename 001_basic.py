@@ -35,3 +35,14 @@ print(f"length of a = {len(a)}")
 # Loops
 for i in range(3):
     print(f"i = {i}")
+
+# Basic Maths
+# - Assign
+a = 1
+# - Increment
+a += 1
+# - Integer division
+b = 10 // 3
+print(f"10 // 3 = {b}")
+# - Modulo/remainder-of-division (mathematical notation: a | b)
+print(f"10 % 3 = {10 % 3}")
